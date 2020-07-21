@@ -1,0 +1,13 @@
+{
+  "name": "rollbookoftlc",
+  "version": "1.0.0",
+  "description": "rollbook of tlc ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liz Lee",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
